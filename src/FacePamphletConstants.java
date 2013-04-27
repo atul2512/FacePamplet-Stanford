@@ -1,74 +1,7 @@
 /*
  * File: FacePamphletConstants.java
  * --------------------------------
- * This file declares several constants that are shared by the
-
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
+ * This file declares several constants that are shared by the 
  * different modules in the FacePamphlet application.  Any class
  * that implements this interface can use these constants.
  */
